@@ -40,6 +40,7 @@
 		FA10766626363F89003B5FD4 = {
 			isa = PBXGroup;
 			children = (
+				FA10768726363FB5003B5FD4 /* Examples */,
 				FA10767126363F89003B5FD4 /* IOTPayShellApp */,
 				FA10767026363F89003B5FD4 /* Products */,
 			);
@@ -65,6 +66,13 @@
 				FA10768026363F8A003B5FD4 /* Info.plist */,
 			);
 			path = IOTPayShellApp;
+			sourceTree = "<group>";
+		};
+		FA10768726363FB5003B5FD4 /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Examples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
